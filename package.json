@@ -8,8 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "async-validator": "1.11.5",
