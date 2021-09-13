@@ -16,6 +16,7 @@ module.exports = {
                     { text: 'LeeCode', link: '/coding/leeCode/' }
                 ]
             },
+            { text: 'git常用命令行', link: '/gitcode/gitcode/', },
             { text: 'csdn', link: 'https://blog.csdn.net/ze1024?spm=1000.2115.3001.5343' },
             { text: '手写源码', link: '/tech/interview/', }
 
