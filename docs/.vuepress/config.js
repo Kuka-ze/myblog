@@ -9,7 +9,7 @@ module.exports = {
         nav: [ // 导航栏配置
             { text: '首页', link: '/' },
             {
-                text: '技术文档', link: '/tech/interview/',
+                text: '技术文档',
                 items: [
                     { text: 'PAT', link: '/coding/pat/' },
                     { text: '剑指offer', link: '/coding/offer/' },
@@ -17,8 +17,8 @@ module.exports = {
                 ]
             },
             { text: 'git常用命令行', link: '/gitcode/gitcode/', },
+            { text: '手写源码', link: '/tech/interview/', },
             { text: 'csdn', link: 'https://blog.csdn.net/ze1024?spm=1000.2115.3001.5343' },
-            { text: '手写源码', link: '/tech/interview/', }
 
         ],
         sidebar: 'auto', // 侧边栏配置
