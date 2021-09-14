@@ -42,7 +42,7 @@
 
 ``` js
 1、输入下面的命令行
-ssh-keygen -t ed25519 -C "xxxxx@xxxxx.com"  // 在终端输入  注意替换自己的邮箱地址
+ssh-keygen -t rsa -C"xxxxx@xxxxx.com"  // 在终端输入  注意替换自己的邮箱地址
 
 2、按照提示 三次回车 即可生成
 
