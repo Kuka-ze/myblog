@@ -20,7 +20,7 @@
 
 查看本地所有分支+hash+与远程的关联信息   git branch -vv 
 
-查看所有分支(本地+远程分支)    git branch -a 
+查看所有分支 (本地+远程分支)    git branch -a 
 
 创建并切换本地分支，分支名为dev   git checkout -b dev
 
