@@ -24,6 +24,8 @@
 
 创建并切换本地分支，分支名为dev   git checkout -b dev
 
+合并分支  git merge origin dev
+
 删除远程分支关联 git remote rm origin 
 
 添加新地址 git remote add origin '项目地址'
