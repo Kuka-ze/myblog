@@ -16,9 +16,16 @@ module.exports = {
                     { text: 'LeeCode', link: '/coding/leeCode/' }
                 ]
             },
+            {
+                text: '面试',
+                items: [
+                    { text: 'vue', link: '/tech/vue/' },
+                    { text: 'react', link: '/tech/react/' },
+                ]
+            },
             { text: 'git常用命令行', link: '/gitcode/gitcode/', },
             { text: '手写源码', link: '/tech/interview/', },
-            { text: 'csdn', link: 'https://blog.csdn.net/ze1024?spm=1000.2115.3001.5343' },
+            { text: 'csdn', link: 'https://blog.csdn.net/ze1024' },
 
         ],
         sidebar: 'auto', // 侧边栏配置
